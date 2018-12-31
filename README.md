@@ -4,9 +4,9 @@ Passgene is a tool to generate passwords.
 
 ## Usage
 
-$ php passgene.php
-$ 12
-$ g!-3Ky5sN@Vt
+$ php passgene.php  
+$ 12  
+$ g!-3Ky5sN@Vt  
 
 ## License
 
