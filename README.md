@@ -1,9 +1,9 @@
-# passgene
-Passgene is a tool to generate passwords.
+# passgen
+Passgen is a tool to generate passwords.
 
 ## Usage
 ```
-$ php passgene.php  
+$ php passgen.php  
 $ 12  
 $ g!-3Ky5sN@Vt  
 ```
